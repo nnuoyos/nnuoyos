@@ -24,7 +24,7 @@
 
 ### 📑Blog📑 </br>
 
-<a href="https://nnuoyos.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+<a href="https://nnuoyos.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 
 </br>
 
