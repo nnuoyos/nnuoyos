@@ -6,6 +6,7 @@
   
   ### Hi there 👋
   
+  
   Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -27,9 +28,8 @@
 
 
 ### About Me </br>
-<a href="https://nnuoyos.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-https://nnuoyos.tistory.com/
+<a href="https://nnuoyos.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnuoyos&layout=compact&theme=본인이선택한테마명&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
