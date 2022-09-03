@@ -18,13 +18,14 @@
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=JQuery&logoColor=white"/></a>
 
 ### 🛠Tools🛠
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual-Studio-5c2d91?style=flat&logo=Visual-Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse-IDE-2c2255?style=flat&logo=Eclipse-IDE&logoColor=white"/></a>
 
 
 ### 📑Blog📑 </br>
 
-<a href="https://nnuoyos.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+<a href="https://nnuoyos.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 
 </br>
 
